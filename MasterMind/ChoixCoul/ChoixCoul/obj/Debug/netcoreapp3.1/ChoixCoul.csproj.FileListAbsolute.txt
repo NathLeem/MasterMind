@@ -1,0 +1,13 @@
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\ChoixCoul.csprojAssemblyReference.cache
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\ChoixCoul.AssemblyInfoInputs.cache
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\ChoixCoul.AssemblyInfo.cs
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\ChoixCoul.csproj.CoreCompileInputs.cache
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\ChoixCoul.exe
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\ChoixCoul.deps.json
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\ChoixCoul.runtimeconfig.json
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\ChoixCoul.runtimeconfig.dev.json
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\ChoixCoul.dll
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\ChoixCoul.pdb
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\ChoixCoul.dll
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\ChoixCoul.pdb
+C:\Users\200253\Desktop\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\ChoixCoul.genruntimeconfig.cache
