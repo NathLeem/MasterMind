@@ -24,3 +24,16 @@ C:\Users\200253\Documents\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1
 C:\Users\200253\Documents\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.dll
 C:\Users\200253\Documents\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.pdb
 C:\Users\200253\Documents\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.genruntimeconfig.cache
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\Mastermind.exe
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\Mastermind.deps.json
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.json
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.dev.json
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\bin\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.csprojAssemblyReference.cache
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfoInputs.cache
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfo.cs
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\200253\Documents\MasterMind\MasterMind\ChoixCoul\ChoixCoul\obj\Debug\netcoreapp3.1\Mastermind.genruntimeconfig.cache

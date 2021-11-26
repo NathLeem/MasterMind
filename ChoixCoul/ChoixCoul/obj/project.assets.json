@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\Mastermind.csproj",
+      "projectUniqueName": "C:\\Users\\200253\\Documents\\MasterMind\\ChoixCoul\\ChoixCoul\\Mastermind.csproj",
       "projectName": "Mastermind",
-      "projectPath": "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\Mastermind.csproj",
+      "projectPath": "C:\\Users\\200253\\Documents\\MasterMind\\ChoixCoul\\ChoixCoul\\Mastermind.csproj",
       "packagesPath": "C:\\Users\\200253\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\obj\\",
+      "outputPath": "C:\\Users\\200253\\Documents\\MasterMind\\ChoixCoul\\ChoixCoul\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\200253\\AppData\\Roaming\\NuGet\\NuGet.Config",
