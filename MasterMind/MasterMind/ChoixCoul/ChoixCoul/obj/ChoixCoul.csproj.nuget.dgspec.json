@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\200253\\source\\repos\\MasterMind\\ChoixCoul\\ChoixCoul\\Mastermind.csproj": {}
+    "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\ChoixCoul.csproj": {}
   },
   "projects": {
-    "C:\\Users\\200253\\source\\repos\\MasterMind\\ChoixCoul\\ChoixCoul\\Mastermind.csproj": {
+    "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\ChoixCoul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\200253\\source\\repos\\MasterMind\\ChoixCoul\\ChoixCoul\\Mastermind.csproj",
-        "projectName": "Mastermind",
-        "projectPath": "C:\\Users\\200253\\source\\repos\\MasterMind\\ChoixCoul\\ChoixCoul\\Mastermind.csproj",
+        "projectUniqueName": "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\ChoixCoul.csproj",
+        "projectName": "ChoixCoul",
+        "projectPath": "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\ChoixCoul.csproj",
         "packagesPath": "C:\\Users\\200253\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\200253\\source\\repos\\MasterMind\\ChoixCoul\\ChoixCoul\\obj\\",
+        "outputPath": "C:\\Users\\200253\\Desktop\\ChoixCoul\\ChoixCoul\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\200253\\AppData\\Roaming\\NuGet\\NuGet.Config",
